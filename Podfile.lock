@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.5.0)
+  - ShopLive (1.2.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - ShopLive (= 1.2.2)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ShopLive
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  ShopLive: ff845e1255eea1891373aaf6d3d9798ea486a6de
+
+PODFILE CHECKSUM: 178c12b0f4b4ff8aa1cb7368b1af2ee769ca1dc4
+
+COCOAPODS: 1.11.3
