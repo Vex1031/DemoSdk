@@ -1,20 +1,24 @@
 PODS:
   - Alamofire (5.5.0)
   - ShopLive (1.2.2)
+  - SnapKit (5.0.1)
 
 DEPENDENCIES:
   - Alamofire
   - ShopLive (= 1.2.2)
+  - SnapKit (~> 5.0.0)
 
 SPEC REPOS:
   trunk:
     - Alamofire
     - ShopLive
+    - SnapKit
 
 SPEC CHECKSUMS:
   Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
   ShopLive: ff845e1255eea1891373aaf6d3d9798ea486a6de
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
 
-PODFILE CHECKSUM: 178c12b0f4b4ff8aa1cb7368b1af2ee769ca1dc4
+PODFILE CHECKSUM: a4bad17fcca603599dd6f23e0a33b231ce0d9df2
 
 COCOAPODS: 1.11.3

@@ -1,19 +1,15 @@
 //
-//  ViewController.swift
+//  DetailController.swift
 //  DemoSdk
 //
 //  Created by vex on 2022/04/11.
 //
-
 import UIKit
+import SnapKit
 
-class ViewController: UIViewController {
-
+class DetailController : UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        self.view.backgroundColor = .blue
     }
-
-
 }
-

@@ -8,4 +8,5 @@ target 'DemoSdk' do
   # Pods for DemoSdk
 pod 'ShopLive', '1.2.2'
 pod 'Alamofire'
+pod 'SnapKit', '~> 5.0.0'
 end
